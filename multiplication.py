@@ -6,5 +6,6 @@ def mult(x, y, z):
     Params: y: Int
     Params: z: Int
     return: Summation of x, y & z
-    """    
+    """  
+    print("Hello World")  
     return x * y * z
