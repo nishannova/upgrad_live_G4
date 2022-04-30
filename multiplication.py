@@ -1,9 +1,10 @@
 #This file is meant for multiplication
 
-def mult(x, y):
+def mult(x, y, z):
     """
     Params: x: Int
     Params: y: Int
-    return: Summation of x & y
+    Params: z: Int
+    return: Summation of x, y & z
     """    
-    return x * y
+    return x * y * z
